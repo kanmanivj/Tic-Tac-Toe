@@ -13,7 +13,7 @@ cd Tic-Tac-Toe
 - Human vs Human — two players on the same machine
 - Human vs Computer — face off against the AI
   - Easy— the computer picks random moves
-  - Hard — the computer uses minimax and will never lose
+  - Hard — the computer uses minimax
 - Live scoreboard tracking wins and draws across multiple rounds
 - Replay rounds without losing your score
 - Change players mid-session — keep scores if same people, reset if new players
