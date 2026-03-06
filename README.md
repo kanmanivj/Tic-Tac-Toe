@@ -1,8 +1,7 @@
  Tic-Tac-Toe
 
 A  interactive Tic-Tac-Toe game built with Python and Tkinter. Play against a friend or challenge the computer powered by the minimax algorithm.
-*1. Clone the repo**
-*1. Clone the repo**
+1. Clone the repo
 ```bash
 git clone https://github.com/kanmanivj/Tic_Tac-Toe.git
 cd Tic-Tac-Toe
@@ -18,7 +17,7 @@ cd Tic-Tac-Toe
 - Live scoreboard tracking wins and draws across multiple rounds
 - Replay rounds without losing your score
 - Change players mid-session — keep scores if same people, reset if new players
-- Colourful UI with gold winning cell highlights and colour-coded X / O
+- UI with winning cell highlighted and colour-coded X / O
 
 ---
 
@@ -39,7 +38,7 @@ tictactoe/
 
 1. Menu screen — choose Human vs Human or Human vs Computer
 
-2. Setup screen*— enter player name(s). If playing vs Computer, choose Easy or Hard difficulty
+2. Setup screen — enter player name(s). If playing vs Computer, choose Easy or Hard difficulty
 
 3. Game screen — click any empty cell to place your symbol. Player 1 is always X and goes first.
 
@@ -58,10 +57,6 @@ After each round:
 Easy mode: picks a random free cell every turn.
 
 Hard mode: uses the minimax algorithm -> a recursive decision tree that simulates every possible future move and always picks the optimal one. It scores positions like this:
-
-- AI wins → `+10` (adjusted for depth so faster wins score higher)
-- Opponent wins → `-10`
-- Draw → `0`
 
 ## Score Tracking
 
