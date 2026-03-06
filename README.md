@@ -3,7 +3,7 @@
 A  interactive Tic-Tac-Toe game built with Python and Tkinter. Play against a friend or challenge the computer powered by the minimax algorithm.
 1. Clone the repo
 ```bash
-git clone https://github.com/kanmanivj/Tic_Tac-Toe.git
+git clone https://github.com/kanmanivj/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 ```
 ---
